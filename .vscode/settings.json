@@ -15,5 +15,8 @@
     "**/dist": true,
     "docs": true,
     "packages": false,
+  },
+  "sqltools.tableTreeItemsExpanded": true,
+  "sqltools.format": { "uppercase": true, "linesBetweenQueries": 2 },
+
   }
-}
