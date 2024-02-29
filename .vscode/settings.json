@@ -17,6 +17,10 @@
     "packages": false,
   },
   "sqltools.tableTreeItemsExpanded": true,
-  "sqltools.format": { "uppercase": true, "linesBetweenQueries": 2 },
+  "sqltools.format": {
+    "uppercase": true,
+    "linesBetweenQueries": 2
+  },
+  "sqltools.connections": [],
 
   }
